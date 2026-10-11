@@ -1,16 +1,26 @@
-## Hi there 👋
+## ʜɪ, ɪ'ᴍ ᴘᴀsʜᴀ 👋
 
-<!--
-**Pasha1b/Pasha1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ɪᴛ ᴇɴᴛʜᴜsɪᴀsᴛ | ᴅᴇᴠᴏᴘs ᴇɴɢɪɴᴇᴇʀ 🚀
 
-Here are some ideas to get you started:
+I'm Pasha, a Petroleum Engineering graduate with **3 years of experience in IT and networking**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **My Background**
+- 🌐 Network administration and optimization
+- ⚡ Network latency and ping optimization
+- 🖥️ Virtualization technologies
+- 🏅 MTCNA Certified
+
+🚀 **Currently Learning**
+- 🐧 DevOps & Linux
+- 🐍 Python programming
+- 🔧 Automation and infrastructure management
+
+🎯 **My Goal**
+
+To continuously expand my knowledge, improve my technical skills, and grow in the fields of IT, networking, and software development.
+
+---
+
+<p align="center">
+  <b>ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ • ᴋᴇᴇᴘ ɢʀᴏᴡɪɴɢ 💚</b>
+</p>
